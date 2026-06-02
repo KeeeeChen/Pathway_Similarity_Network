@@ -32,7 +32,7 @@ A screenshot of the interface is shown below:
 
 <img src="web_demo.png" width="900">
 
-The visualization system is based on:
+The source code of the visualization system is available at:
 
 🔗 https://github.com/tfu04/daviz-pathway-similarity-visualization-network
 
